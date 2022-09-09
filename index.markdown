@@ -5,6 +5,9 @@
 layout: home
 title: Haley Colgate Kottler
 ---
+
+![Haley Colgate Kottler](/assets/images/headshot.jpg)
+
 I am a graduate student in mathematics at the University of Wisconsin-Madison working with Dr. Amy Cochran on problems in computational psychiatry and data science.  I am working towards a PhD in hopes of becoming a professor.
 
 Prior to moving to Wisconsin, I graduated from Colorado College in 2020 with a bachelors degree in mathematics.  My time at a liberal arts institution led to an interest in how a cross-disciplinary framing can improve student learning and engagement, especially in introductory courses required by other majors.
