@@ -5,7 +5,7 @@ title: Defining the Problem
 
 Consider an agent interacting with a Markov Decision Process (MDP) with state space $$S$$, action space $$A$$, rewards $$R$$, and transition probabilities $$P$$.  At each time point $$t$$, the agent observes a state $$s_t\in S$$, chooses an action $$a_t\in A$$ based on their policy $$\pi_t$$, transitions to a new state $$s_{t+1}$$ via transition probabilities unknown to them, and receives a reward $$r_t(s_{t}, a_{t})$$ from the environment.  The agent is given a goal like "reach x number of points in less than 20 moves." 
 
-I want to know if we can dynamically modify the transition probabilities to remove biases in the agent's policy.  Biases in executive function decrease flexibility in problem solving by restricting the space of possible policies and/or increasing the time it takes to arrive at some policies, so if we can decrease an agent's biases we could potentially train them to solve problems more quickly and more accurately.
+I want to know if we can dynamically modify the MDP to remove biases in the agent's policy.  Biases in executive function decrease flexibility in problem solving by restricting the space of possible policies and/or increasing the time it takes to arrive at some policies, so if we can decrease an agent's biases we could potentially train them to solve problems more quickly and more accurately.
 
 We define 
 
