@@ -1,6 +1,6 @@
 - name: Home
   link: /
-#- name: About
-  #link: /about.html
+- name: Defining the Problem
+  link: /hw2.html
 #- name: Blog
   #link: /blog.html
