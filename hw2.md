@@ -16,7 +16,7 @@ and
 $$Y_t=\begin{cases} 0 && \text{the agent's choice was optimal}\\
 1 && \text{the agent's choice was not optimal.}\end{cases}$$  
 
-Note that optimality could be defined in terms of the underlying MDP or in terms of the experience of the agent, so $X_t$ and $Y_t$ can depend on both the MDP and the agent.  Now let $$Z(S_1,R_1,S_2,R_2,...,R_{t-1},S_t) = (X_t,Y_t)$$.  We are then interested in evaluating the conditional average causal excursion effect $$\mathbb{E}[Z(S_1,R_1,S_2,R_2,...,r_{t-1},s_t) - Z(S_1,R_1,S_2,R_2,...,r'_{t-1},s'_t)\|X_t=x]$$ for $$r_t,r'_t\in R$$, $$s_t,s'_t\in S$$, and $$x\in\{-1,1\}$$.
+Note that optimality could be defined in terms of the underlying MDP or in terms of the experience of the agent, so $$X_t$$ and $$Y_t$$ can depend on both the MDP and the agent.  Now let $$Z(S_1,R_1,S_2,R_2,...,R_{t-1},S_t) = (X_t,Y_t)$$.  We are then interested in evaluating the conditional average causal excursion effect $$\mathbb{E}[Z(S_1,R_1,S_2,R_2,...,r_{t-1},s_t) - Z(S_1,R_1,S_2,R_2,...,r'_{t-1},s'_t)\|X_t=x]$$ for $$r_t,r'_t\in R$$, $$s_t,s'_t\in S$$, and $$x\in\{-1,1\}$$.
 
 ![Directed Acyclic Graph](/assets/images/dag.png)
 
