@@ -7,7 +7,7 @@ Note: $$Y_{i}(m_{\leq j}) := Y_i(m_1,\dots,m_j)$$.
 
 We intervene on each MDP independently, leading to the following SWIG:
 
-![Directed Acyclic Graph](/assets/images/swig.png)
+![SWIG](/assets/images/swig.png)
 
 For $$i\in[T]$$, we need a positivity assumption that $$P(M_i=m_i)>0$$ and $$P(M_i=m_i')>0$$, a consistency assumption that $$Y_i(M_{\leq i}) = Y_i$$, and the standard SUTVA assumption that the mapping $$(m_{\leq i}) \mapsto Y_i(m_{\leq i})$$ is well defined.
 
