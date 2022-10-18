@@ -9,10 +9,9 @@ We intervene on each MDP independently, leading to the following SWIG:
 
 ![SWIG](/assets/images/swig.png)
 
-For $$i\in[T]$$, we need a positivity assumption that $$P(M_i=m_i)>0$$ and $$P(M_i=m_i')>0$$, a consistency assumption that $$Y_i(M_{\leq i}) = Y_i$$, and the standard SUTVA assumption that the mapping $$(m_{\leq i}) \mapsto Y_i(m_{\leq i})$$ is well defined.
-
-
 This allows us to conclude that $$M_i\perp \!\!\! \perp Y_j(m_{\leq j})$$, and more importantly, $$M_i\perp \!\!\! \perp Y_j(M_{\leq j-1}, m_j)$$ for any $$i,j\in[T]$$.
+
+For $$i\in[T]$$, we need a positivity assumption that $$P(M_i=m_i)>0$$ and $$P(M_i=m_i')>0$$, a consistency assumption that $$Y_i(M_{\leq i}) = Y_i$$, and the standard SUTVA assumption that the mapping $$(m_{\leq i}) \mapsto Y_i(m_{\leq i})$$ is well defined.
 
 We therefore get via linearity
 
@@ -30,4 +29,6 @@ So by consistency we arrive at
 
 $$= \mathbb{E}[Y_T \mid M_T=m_t] - \mathbb{E}[Y_T \mid M_T=m_t']$$
 
-which is a statistical estimand we can estimate using the data.
+which is a statistical estimand we can estimate using the data.  
+
+Notice that the number of possibilities for the history, which will impact $$Y_T$$, increases very quickly, so there are many estimates we would need to compute to draw conclusions from.  However, the estimand at the end does not explicitly rely on the history.
