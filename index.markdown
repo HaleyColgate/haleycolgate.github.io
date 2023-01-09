@@ -5,8 +5,10 @@ title: Haley Colgate Kottler
 
 ![Haley Colgate Kottler](/assets/images/headshot.jpg)
 
-I am a graduate student in mathematics at the University of Wisconsin-Madison working with Dr. Amy Cochran on problems in computational psychiatry and data science.  I am working towards a PhD in hopes of becoming a professor.
+Email: haley dot kottler at wisc dot edu
 
-Prior to moving to Wisconsin, I graduated from Colorado College in 2020 with a bachelors degree in mathematics.  My time at a liberal arts institution led to an interest in how a cross-disciplinary framing can improve student learning and engagement, especially in introductory courses required by other majors.
+Office: Van Vleck 416
 
-Currently, I am studying the theory and application of causal inference, as it seems to provide a rigorous method to evaluate whether or not adjustments in teaching methods or psychiatric interventions were effective.
+I am a graduate student in mathematics at the University of Wisconsin-Madison working with Dr. Amy Cochran on problems in computational psychiatry and data science, and with Dr. Jose Israel Rodriguez on problems in applied algebra.  I am working towards a PhD in hopes of becoming a professor.
+
+Prior to moving to Wisconsin, I graduated from Colorado College in 2020 with a bachelors degree in mathematics.  My time at a liberal arts institution led to an interest in how a cross-disciplinary framing can improve student learning and engagement, especially in introductory courses required by other majors.  My thesis use Markov Chain Monte Carlo for ensemble analysis of congressional voting district maps in Colorado.

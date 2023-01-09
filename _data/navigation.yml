@@ -1,12 +1,10 @@
 - name: Home
   link: /
-- name: Defining the Problem
-  link: /hw2.html
-- name: Identification
-  link: /hw3.html
-- name: Estimation
-  link: /hw4.html
-- name: Sensitivity Analysis
-  link: /hw5.html
-- name: Conclusion
-  link: /hw6.html
+- name: Publications
+  link: /publications.html
+- name: Teaching and Outreach
+  link: /outreach.html
+- name: CV
+  link: /cv.html
+- name: Causal Inference Final Project
+  link: /project.html

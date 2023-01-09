@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Haley Colgate Kottler
-email: hcolgate@wisc.edu
+email: haley.kottler@wisc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Adventures in data science
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "haleycolgate.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  HaleyColgate
+url: "haleycolgatekottler.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  HaleyColgateKottler
 
 # Build settings
 theme: minima
