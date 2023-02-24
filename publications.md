@@ -5,7 +5,7 @@ title: Publications
 
 # Published:
 
-Quantifying aberrant approach-avoidance conflict in psychopathology: A review of computational approaches. by Allison M. Letkiewicz, **Haley C. Kottler**, Stewart A. Shankman, and Amy L. Cochran. Neuroscience \& Biobehavioral Reviews. 147 (2023). [https://doi.org/10.1016/j.neubiorev.2023.105103](https://doi.org/10.1016/j.neubiorev.2023.105103)
+Quantifying aberrant approach-avoidance conflict in psychopathology: A review of computational approaches. by Allison M. Letkiewicz, **Haley C. Kottler**, Stewart A. Shankman, and Amy L. Cochran. Neuroscience & Biobehavioral Reviews. 147 (2023). [https://doi.org/10.1016/j.neubiorev.2023.105103](https://doi.org/10.1016/j.neubiorev.2023.105103)
 
 Colorado in context: Congressional redistricting and competing fairness criteria in Colorado. by Jeanne Clelland, **Haley Colgate**, Daryl DeFord, Beth Malmskog, and Flavia Sancier-Barbosa. *(Authors alphabetical by last name.)*
 Journal of Computational Social Science. 1-38 (2021). [https://doi.org/10.1007/s42001-021-00119-7](https://doi.org/10.1007/s42001-021-00119-7)
