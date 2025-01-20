@@ -23,6 +23,8 @@ GMMParameterEstimation.jl is a Julia package created by **Haley Kottler**, Julia
 
 # Works in Progress:
 
-Confounding by Indication with Proxy Variables, by **Haley Kottler** and Amy Cochran.
+Characterizing Lucid Episodes in Advanced Dementia: A Prospective Study, by Andrea Gilmore-Bykovskyi, **Haley Kottler**, Amy Cochran, Kayla Dillon, Alison Coulson, Clark Benson, Jess Fehland, and Kimberly Mueller
+
+Overcoming Unmeasured Confounding with Proxy Variables, by **Haley Kottler** and Amy Cochran.
 
 Implementation of Estimating Gaussian Mixtures Using Sparse Polynomial Moment Systems, by **Haley Kottler**, Julia Lindberg, and Jose Israel Rodriguez.
